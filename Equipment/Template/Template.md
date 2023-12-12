@@ -14,4 +14,4 @@ quick start guide here
 
 simple troubleshooting tips here
 
-Having other issues? [ask a question](<ChrisBall@omnimusic.org.uk>)
+Having other issues? [ask a question](<mailto:ChrisBall@omnimusic.org.uk>)
