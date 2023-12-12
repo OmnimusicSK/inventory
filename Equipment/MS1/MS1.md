@@ -4,6 +4,6 @@ Manufacturer Website Link: [https://www.behringer.com/product.html?modelCode=P0D
 
 Serial No(s):
 
-## How to use:
+## Quick start:
 
 
