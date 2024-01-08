@@ -1,8 +1,8 @@
 # Equipment
 
-[Behringer MS-1](https://github.com/OmnimusicSK/Inventory/blob/main/Equipment/MS1/MS1.md)
+[Behringer MS-1](https://omnimusicsk.github.io/Inventory/Equipment/MS1/MS1.html)
 
-[Magic Flute](<https://github.com/OmnimusicSK/Inventory/blob/main/Equipment/Magic Flute/Magic Flute.md>)
+[Magic Flute](<https://omnimusicsk.github.io/Inventory/Equipment/Magic Flute/Magic Flute.html>)
 
 Thumb Jam
 
@@ -10,7 +10,7 @@ Skyle iTracker
 
 [midiCreator](https://omnimusic.org.uk/midi-creator/)
 
-[CMPSR](<https://omnimusicsk.github.io/inventory/Equipment/CMPSR/CMPSR.md>)
+[CMPSR](<https://omnimusicsk.github.io/Inventory/Equipment/CMPSR/CMPSR.html>)
 
 Optikey
 
