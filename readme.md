@@ -10,7 +10,7 @@ Skyle iTracker
 
 [midiCreator](https://omnimusic.org.uk/midi-creator/)
 
-[CMPSR](<https://github.com/OmnimusicSK/Inventory/blob/main/Equipment/CMPSR/CMPSR.md>)
+[CMPSR](<https://omnimusicsk.github.io/inventory/Equipment/CMPSR/CMPSR.md>)
 
 Optikey
 
