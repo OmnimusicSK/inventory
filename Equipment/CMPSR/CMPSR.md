@@ -1,4 +1,4 @@
-# Equipment Name
+# CMPSR
 
 ![CMPSR](<CMPSR.jpg>)
 
