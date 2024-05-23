@@ -1,3 +1,5 @@
+![OmniMusic](<https://omnimusic.org.uk/wp-content/themes/omnimusic/assets/img/omnimusic-logo.png>)
+
 # Equipment
 
 [Behringer MS-1](<https://omnimusicsk.github.io/inventory/Equipment/MS1/MS1.html>)
