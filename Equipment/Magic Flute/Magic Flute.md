@@ -19,7 +19,7 @@ Only then should you connect power. The instrument will then calibrate it's refe
 You can also connect the MIDI (5 pin din) output to an external synthesiser, or just use the onboard synthesis and plug the Audio output straight into a speaker.
 
 ![Magic Flute](<icon.png>)
-Select this picture on the display and start playing. You can see on the display which notes you play.
+Select this picture on the menu and start playing. You can see on the display which notes you play.
 
 You can view the full manual, including instructions for sanitising parts and mouthpieces, here:
 [My Breath My Music](<https://mybreathmymusic.com/wp-content/uploads/2016/05/The-Magic-Flute-manual-English.pdf>)
@@ -28,10 +28,9 @@ You can view the full manual, including instructions for sanitising parts and mo
 
 If the instrument is too sensitive to tilting, sensitivity can be adjusted in the User Settings Menu. 1 is the least sensitive, 8 is the most sensitive.
 
-If you need to reset the reference position, you can reset the gyroscope within this menu:
+If you need to reset the reference position, you can reset the gyroscope within this menu item:
 
 ![Magic Flute](<icon2.png>)
-
 Then "reset giro".
 
 Having other issues? [ask a question](<mailto:ChrisBall@omnimusic.org.uk>)
