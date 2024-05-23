@@ -1,6 +1,6 @@
 # Equipment Name
 
-![Magic Flute](<http://audiorhoon.nl/images/toonladder.jpg>)
+![Magic Flute](<toonladder.jpg>)
 
 Manufacturer Website Link: [AudioRhoon](<audiorhoon.nl>)
 
