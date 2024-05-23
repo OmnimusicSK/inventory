@@ -1,6 +1,6 @@
 # Equipment
 
-[Behringer MS-1](https://omnimusicsk.github.io/inventory/Equipment/MS1/MS1.html)
+[Behringer MS-1](<https://omnimusicsk.github.io/inventory/Equipment/MS1/MS1.html>)
 
 [Magic Flute](<https://omnimusicsk.github.io/inventory/Equipment/Magic Flute/Magic Flute.html>)
 
@@ -14,7 +14,7 @@
 
 [Cosmo Switch](<https://omnimusicsk.github.io/inventory/Equipment/Cosmo Switch/Cosmo Switch.html>)
 
-[midiCreator](https://omnimusic.org.uk/midi-creator/)
+[midiCreator](<https://omnimusic.org.uk/midi-creator/>)
 
 Optikey
 
