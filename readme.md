@@ -2,6 +2,8 @@
 
 [Behringer MS-1](<https://omnimusicsk.github.io/inventory/Equipment/MS1/MS1.html>)
 
+[Korg X5-D](<https://omnimusicsk.github.io/inventory/Equipment/Korg X5-D/Korg X5-D.html>)
+
 [Magic Flute](<https://omnimusicsk.github.io/inventory/Equipment/Magic Flute/Magic Flute.html>)
 
 [Thumb Jam](<https://omnimusicsk.github.io/inventory/Equipment/Thumb Jam/Thumb Jam.html>)
