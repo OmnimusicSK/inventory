@@ -19,9 +19,11 @@ User Manual: [https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Owners_Manual-1.
 
 -BLE (bluetooth) MIDI is initialised by pressing the small button underneath the controller. 
 
-[Pairing is completed in the Bluetooth manager on MAC.](https://support.apple.com/en-gb/guide/audio-midi-setup/ams33f013765/mac)
+[Pairing is completed in the Bluetooth manager on MAC, or within your music software](https://support.apple.com/en-gb/guide/audio-midi-setup/ams33f013765/mac)
 
 On Windows, third party pieces of software need to be installed - [MIDIBerry](https://apps.microsoft.com/detail/9n39720h2m05) & [Loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html). MIDIBerry handles the bluetooth connection, and loopmidi allows a virtual midi port to loop back the data to a DAW.
+
+On Android, pairing is likely completed within your music software.
 
 -Power on/off by holding the button on the underside.
 

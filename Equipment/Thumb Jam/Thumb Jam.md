@@ -18,16 +18,13 @@ There are extensive instructions on all of thumbJam's features here:
 
 [ThumbJam User Guide](<https://thumbjam.com/docs.php>)
 
-
 Drake music has an excellent intro video here:
 
 [Introduction to ThumbJam](<https://www.youtube.com/watch?v=HMMgPOKUw48>)
 
-
 They also have a good guide for locking areas of the screen using the iPad's built in "guided access" settings (section 3):
 
 [Customising ThumbJam](<https://www.drakemusic.org/blog/charles-matthews/customising-thumbjam/>)
-
 
 ## Troubleshooting
 
