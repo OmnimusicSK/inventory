@@ -1,4 +1,4 @@
-# Equipment Name
+# Magic Flute
 
 ![Magic Flute](<toonladder.jpg>)
 
