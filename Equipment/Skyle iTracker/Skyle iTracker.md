@@ -1,4 +1,4 @@
-# Equipment Name
+# Skyle iTracker
 
 ![Skyle iTracker](<https://www.spectronics.com.au/images/product/inclusivet/Skyle-Profile.png>)
 

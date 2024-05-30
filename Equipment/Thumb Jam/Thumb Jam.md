@@ -1,4 +1,4 @@
-# Equipment Name
+# ThumbJam
 
 ![ThumbJam](<https://thumbjam.com/_include/images/misc/thumbjam_title.png>)
 

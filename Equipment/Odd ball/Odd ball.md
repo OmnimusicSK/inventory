@@ -1,4 +1,4 @@
-# Equipment Name
+# Odd ball
 
 ![Odd ball](<https://oddballism.com/cdn/shop/files/ball_test.png>)
 

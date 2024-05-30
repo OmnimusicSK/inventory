@@ -1,4 +1,4 @@
-# Equipment Name
+# Behringer MS-1 Keyboard
 
 ![Behringer MS-1 Keyboard](<https://mediadl.musictribe.com/media/PLM/data/images/products/P0DNG/515Wx515H/MS-1-BK_P0DNG_Top_B.png>)
 

@@ -1,4 +1,4 @@
-# Equipment Name
+# Korg X5-D
 
 ![Korg X5-D Keyboard](<Korg X5-D.jpg>)
 
