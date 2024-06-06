@@ -35,6 +35,4 @@ The external switch can be attached to the underside of the iTracker, and can be
 
 For whatever reason, you can't switch on the iPad while it's charging, or the iTracker will not start correctly - so just make sure it's not charging when you switch it on. If this is the case for you, you can restart the ipad by holding down the top button and the volume up button at the same time. A slider will appear on screen and you can drag it to the left to shut down the iPad. Once shut down, you can turn it on again by holding the top button.
 
-
-
 Having other issues? [ask a question](<mailto:ChrisBall@omnimusic.org.uk>)
