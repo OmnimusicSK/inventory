@@ -1,6 +1,6 @@
 # Odd ball
 
-![Odd ball](<https://oddballism.com/cdn/shop/files/ball_test.png>)
+<img src="https://oddballism.com/cdn/shop/files/ball_test.png>" alt="picture of the odd ball" width="50pc"/>
 
 Manufacturer Website Link: [Odd Ball](<https://oddballism.com/>)
 
