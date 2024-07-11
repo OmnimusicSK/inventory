@@ -1,6 +1,6 @@
 # Odd ball
 
-<img src="https://oddballism.com/cdn/shop/files/ball_test.png>" alt="picture of the odd ball" width="50pc"/>
+<img src="https://oddballism.com/cdn/shop/files/ball_test.png>" alt="picture of the odd ball" width="300"/>
 
 Manufacturer Website Link: [Odd Ball](<https://oddballism.com/>)
 
