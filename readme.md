@@ -18,6 +18,8 @@
 
 [midiCreator](<https://omnimusic.org.uk/midi-creator/>)
 
+# Guides
+
 [Using BLE MIDI devices on Windows](<https://omnimusicsk.github.io/inventory/Guides/Windows BLE/Windows BLE.html>)
 
 
