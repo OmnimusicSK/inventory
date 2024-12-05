@@ -11,7 +11,7 @@ Serial No(s):
 Plug in the CMPSR, using the included USB-C cable. It should start up and show up as a MIDI input in your operating system. 
 You can then use it to make musical notes in any DAW (Digital Audio Workstation), such as garageBand, thumbJam, ableton live, logic, etc.
 
-Cheat sheet: [https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Cheat_Sheet.pdf](https://digitlearning.co.uk/wp-content/uploads/Cmpsr_Cheat-Sheet.pdf)
+Cheat sheet: [https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Cheat-Sheet.pdf](https://digitlearning.co.uk/wp-content/uploads/Cmpsr_Cheat-Sheet.pdf)
 
 User Manual: [https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Owners_Manual-1.pdf](https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Owners_Manual-1.pdf)
 
