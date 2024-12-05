@@ -2,7 +2,7 @@
 
 ## Guide
 
-Unfortunately, unlike MAC and iOS, there is no native support (as of 5/12/24) for BLE (Bluetooth Low Energy) MIDI devices in Windows. This may change but is unlikely to happen quickly.
+Unfortunately, unlike macOS and iOS, there is no native support (as of 5/12/24) for BLE (Bluetooth Low Energy) MIDI devices in Windows. This may change but is unlikely to happen quickly.
 
 To successfully use a BLE MIDI device in windows, 2 pieces of software are required:
 
