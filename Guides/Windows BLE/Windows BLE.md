@@ -12,7 +12,6 @@ To successfully use a BLE MIDI device in windows, 2 pieces of software are requi
 
 The BLE MIDI connection manager will actually handle connecting your bluetooth device, but the data it sends needs somewhere to go! The loopback port manager handles creating virtual MIDI ports for sending data to other programs, like Ableton.
 
-
 You can download **loopMIDI** [here](https://www.tobias-erichsen.de/software/loopmidi.html).
 
 You can download **MIDIBerry** [here](https://apps.microsoft.com/detail/9n39720h2m05?rtc=1&hl=en-gb&gl=GB). Alternatively, you can search for it on the microsoft store (type "store" in the start menu).
