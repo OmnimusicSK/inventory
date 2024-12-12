@@ -15,13 +15,19 @@ Cheat sheet: [https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Cheat-Sheet.pdf]
 
 User Manual: [https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Owners_Manual-1.pdf](https://digitmusic.co.uk/wp-content/uploads/Cmpsr_Owners_Manual-1.pdf)
 
+You can also use the CMPSR official app, CMPSR swipe:
+
+iOS/MAC: [https://apps.apple.com/au/app/cmpsr-swipe/id6466997330](https://apps.apple.com/au/app/cmpsr-swipe/id6466997330)
+
+Android: [https://play.google.com/store/apps/details?id=uk.co.digitmusic.cmpsr.emu](https://play.google.com/store/apps/details?id=uk.co.digitmusic.cmpsr.emu)
+
 ## Troubleshooting
 
 -BLE (bluetooth) MIDI is initialised by pressing the small button underneath the controller. 
 
 [Pairing is completed in the Bluetooth manager on MAC, or within your music software](https://support.apple.com/en-gb/guide/audio-midi-setup/ams33f013765/mac)
 
-On Windows, third party pieces of software need to be installed - [MIDIBerry](https://apps.microsoft.com/detail/9n39720h2m05) & [Loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html). MIDIBerry handles the bluetooth connection, and loopmidi allows a virtual midi port to loop back the data to a DAW.
+On Windows, third party pieces of software need to be installed - [MIDIBerry](https://apps.microsoft.com/detail/9n39720h2m05) & [Loopmidi](https://www.tobias-erichsen.de/software/loopmidi.html). MIDIBerry handles the bluetooth connection, and loopmidi allows a virtual midi port to loop back the data to a DAW. See our full guide to using BLE devices on windows [here](https://omnimusicsk.github.io/inventory/Guides/Windows%20BLE/Windows%20BLE.html)
 
 On Android, pairing is likely completed within your music software.
 
