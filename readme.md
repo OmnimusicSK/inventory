@@ -2,21 +2,21 @@
 
 [Behringer MS-1](<https://omnimusicsk.github.io/inventory/Equipment/MS1/MS1.html>)
 
+[CMPSR](<https://omnimusicsk.github.io/inventory/Equipment/CMPSR/CMPSR.html>)
+
+[Cosmo Switch](<https://omnimusicsk.github.io/inventory/Equipment/Cosmo Switch/Cosmo Switch.html>)
+
 [Korg X5-D](<https://omnimusicsk.github.io/inventory/Equipment/Korg X5-D/Korg X5-D.html>)
 
 [Magic Flute](<https://omnimusicsk.github.io/inventory/Equipment/Magic Flute/Magic Flute.html>)
 
-[Thumb Jam](<https://omnimusicsk.github.io/inventory/Equipment/Thumb Jam/Thumb Jam.html>)
-
-[Skyle iTracker](<https://omnimusicsk.github.io/inventory/Equipment/Skyle iTracker/Skyle iTracker.html>)
-
-[CMPSR](<https://omnimusicsk.github.io/inventory/Equipment/CMPSR/CMPSR.html>)
+[midiCreator](<https://omnimusic.org.uk/midi-creator/>)
 
 [Odd Ball](<https://omnimusicsk.github.io/inventory/Equipment/Odd ball/Odd ball.html>)
 
-[Cosmo Switch](<https://omnimusicsk.github.io/inventory/Equipment/Cosmo Switch/Cosmo Switch.html>)
+[Skyle iTracker](<https://omnimusicsk.github.io/inventory/Equipment/Skyle iTracker/Skyle iTracker.html>)
 
-[midiCreator](<https://omnimusic.org.uk/midi-creator/>)
+[Thumb Jam](<https://omnimusicsk.github.io/inventory/Equipment/Thumb Jam/Thumb Jam.html>)
 
 # Guides
 
