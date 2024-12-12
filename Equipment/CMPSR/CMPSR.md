@@ -23,11 +23,11 @@ Android: [https://play.google.com/store/apps/details?id=uk.co.digitmusic.cmpsr.e
 
 ## Troubleshooting
 
--BLE (bluetooth) MIDI is initialised by pressing the small button underneath the controller. 
+-BLE (bluetooth) MIDI is initialised by pressing the small button underneath the controller. Always try connecting BLE within your music software first. For example, in Thumbjam, go to Prefs -> MIDI Control -> Scan for Bluetooth LE.
 
 [Pairing is completed in the Bluetooth manager on MAC, or within your music software](https://support.apple.com/en-gb/guide/audio-midi-setup/ams33f013765/mac)
 
-On Windows, third party pieces of software need to be installed - See our full guide to using BLE devices on windows [here](https://omnimusicsk.github.io/inventory/Guides/Windows%20BLE/Windows%20BLE.html)
+On Windows, third party pieces of software need to be installed - See our full guide to using BLE devices on windows (it's surprisingly difficult) [here](https://omnimusicsk.github.io/inventory/Guides/Windows%20BLE/Windows%20BLE.html)
 
 On Android, pairing is likely completed within your music software.
 
