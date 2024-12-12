@@ -10,7 +10,7 @@
 
 [Magic Flute](<https://omnimusicsk.github.io/inventory/Equipment/Magic Flute/Magic Flute.html>)
 
-[midiCreator](<https://omnimusic.org.uk/midi-creator/>)
+[midiCreator](<https://omnimusic.org.uk/inventory/Equipment/midiCreator/midiCreator.md>)
 
 [Odd Ball](<https://omnimusicsk.github.io/inventory/Equipment/Odd ball/Odd ball.html>)
 
