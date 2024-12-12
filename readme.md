@@ -24,7 +24,7 @@
 
 # About OmniMusic
 
-We believe everyone has a human right to take part in cultural life and express themselves creatively. OmniMusic is a music, disability and tech charity based in Greater Manchester, empowering Disabled people to have as much autonomy as possible through inclusive music making, using accessible and adapted instruments. Find out more about us [here](www.omnimusic.org.uk).
+We believe everyone has a human right to take part in cultural life and express themselves creatively. OmniMusic is a music, disability and tech charity based in Greater Manchester, empowering Disabled people to have as much autonomy as possible through inclusive music making, using accessible and adapted instruments. Find out more about us [here](<https://omnimusic.org.uk/>).
 
 
 
