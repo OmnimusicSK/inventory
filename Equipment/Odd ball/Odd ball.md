@@ -26,7 +26,7 @@ As of 19/12/24 the CC parameters are:
 |    1    | 3         | X Orientation  |
 |    1    | 4         | Y Orientation  |
 |    1    | 5         | Z Orientation  |
-|    1    | 7         | Movement       |
+|    1    | 6         | Movement       |
 
 
 There are some odd ball tutorials, but as this a developing product, the instructions may be out of date:
