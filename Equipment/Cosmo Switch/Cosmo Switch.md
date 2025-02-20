@@ -1,4 +1,4 @@
-# Equipment Name
+# Cosmo Switch by Filisia
 
 ![Cosmo Switch & Packaging](<https://www.inclusive.com/media/catalog/product/cache/90e25f8bddf79f4e34b488020dab5ec0/c/o/cosmo-switch-main-2.jpg>)
 

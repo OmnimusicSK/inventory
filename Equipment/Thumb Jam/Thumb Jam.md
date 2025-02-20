@@ -18,7 +18,7 @@ There are extensive instructions on all of thumbJam's features here:
 
 [ThumbJam User Guide](<https://thumbjam.com/docs.php>)
 
-Drake music has an excellent intro video here:
+Drake music Scotland has an excellent intro video here:
 
 [Introduction to ThumbJam](<https://www.youtube.com/watch?v=HMMgPOKUw48>)
 
