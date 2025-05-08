@@ -10,7 +10,7 @@ Serial No(s):
 
 The Behringer MS-1 is a 32-key monophonic analogue synthesiser. It can achieve many "classic synthesiser" sounds, but not imitations of acoustic instruments, like a clarinet or violin.
 
-Connect the DC power jack, and plug a speaker into the "output" jack on the rear. Ensure the "volume" dial on the left side of the keyboard is turned up. You can now play the keys and hear sound. There are no preset sounds on this keyboard and the sound you hear is controlled by adjusting the numerous dials and faders.
+Connect the DC power jack (9V negative tip), and plug a speaker into the "output" jack on the rear. Ensure the "volume" dial on the left side of the keyboard is turned up. You can now play the keys and hear sound. There are no preset sounds on this keyboard and the sound you hear is controlled by adjusting the numerous dials and faders.
 
 You can also trigger the sounds with external MIDI, either by old fashioned MIDI connector (5 pin din) or USB from a computer. Many of the voice parameters can also be controlled by MIDI CC. See the manual for more details:
 [MS-1 User Manual](<https://mediadl.musictribe.com/media/PLM/data/docs/P0DNG/MS-1_QSG_WW.pdf>)
