@@ -1,4 +1,4 @@
-# Equipment Name
+# MusiKraken
 
 ![MusiKraken editor interface](<https://musikraken.com/images/howtouse_editorView.jpg>)
 
