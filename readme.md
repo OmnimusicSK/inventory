@@ -12,6 +12,8 @@
 
 [midiCreator](<https://omnimusic.org.uk/inventory/Equipment/midiCreator/midiCreator.md>)
 
+[MusiKraken](<https://omnimusicsk.github.io/inventory/Equipment/MusiKraken/MusiKraken.html>)
+
 [Odd Ball](<https://omnimusicsk.github.io/inventory/Equipment/Odd ball/Odd ball.html>)
 
 [Skyle iTracker](<https://omnimusicsk.github.io/inventory/Equipment/Skyle iTracker/Skyle iTracker.html>)
