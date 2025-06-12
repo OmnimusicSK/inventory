@@ -20,6 +20,8 @@
 
 [Thumb Jam](<https://omnimusicsk.github.io/inventory/Equipment/Thumb Jam/Thumb Jam.html>)
 
+[TouchOSC](<https://omnimusicsk.github.io/inventory/Equipment/TouchOSC/TouchOSC.html>)
+
 # Guides
 
 [Using BLE MIDI devices on Windows](<https://omnimusicsk.github.io/inventory/Guides/Windows BLE/Windows BLE.html>)
