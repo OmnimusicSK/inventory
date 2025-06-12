@@ -36,7 +36,7 @@ Then, we also need to ensure your output is "connected". There is a ► icon on 
 
 Finally, you can select the ► and test your interface.
 
-
+If you are just building a simple note interface, you can repeat the steps above, changing the colour and shape of the note buttons as required.
 
 ## Troubleshooting
 
