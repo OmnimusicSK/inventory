@@ -8,7 +8,7 @@ Serial No(s): n/a
 
 ## Quick Start Guide
 
-MusiKraken is a general purpose app that can use various sensors on your android/iOs device to build MIDI interfaces. The free version allows simple inputs like buttons and keyboards, the paid version (£8.99) allows for head/face tracking and many (many) more.
+MusiKraken is a general purpose app that can use various sensors on your android/iOs device to build MIDI interfaces. The free version allows simple inputs like buttons and keyboards, the paid version (£8.99 Android/£9.99 iPad) allows for head/face tracking and many (many) more.
 
 The default onscreen keyboard is tied into a simple synthesiser. You can edit the interface by pressing the arrow in the top right. You can then add modules by clicking on the "+" icon.
 
