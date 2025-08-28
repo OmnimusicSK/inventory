@@ -8,7 +8,7 @@ Serial No(s):
 
 ## Quick Start Guide
 
-The iTracker is most suitable for users that have profound access needs but have control over their eye movements, and perhaps some other parts of their body. We'll mainly be using it to control [thumbJam](<https://omnimusicsk.github.io/inventory/Equipment/Thumb%20Jam/Thumb%20Jam.html>).
+The iTracker is most suitable for users that mainly have control over their eye movements, and perhaps some other parts of their body. We'll mainly be using it to control [thumbJam](<https://omnimusicsk.github.io/inventory/Equipment/Thumb%20Jam/Thumb%20Jam.html>).
 
 This is a complicated piece of kit, so we recommend you practice using it yourself before introducing it to someone else.
 

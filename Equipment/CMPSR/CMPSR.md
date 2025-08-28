@@ -13,6 +13,10 @@ You can then use it to make musical notes in any DAW (Digital Audio Workstation)
 
 Starter guide: [https://www.digitmusic.co.uk/wp-content/uploads/2025/02/CMPSR-Starter-explore.pdf](https://www.digitmusic.co.uk/wp-content/uploads/2025/02/CMPSR-Starter-explore.pdf)
 
+User manual: [https://cdn.shopify.com/s/files/1/0557/0556/7432/files/Cmpsr_Owners_Manual.pdf](https://cdn.shopify.com/s/files/1/0557/0556/7432/files/Cmpsr_Owners_Manual.pdf)
+
+Cheat sheet: [https://cdn.shopify.com/s/files/1/0557/0556/7432/files/CMPSR-Cheat-Sheets.pdf](https://cdn.shopify.com/s/files/1/0557/0556/7432/files/CMPSR-Cheat-Sheets.pdf)
+
 You can also use the CMPSR official app, CMPSR swipe:
 
 iOS/MAC: [https://apps.apple.com/au/app/cmpsr-swipe/id6466997330](https://apps.apple.com/au/app/cmpsr-swipe/id6466997330)
